@@ -1,2 +1,2 @@
 # Gender Guess
-Data used to train: https://www.kaggle.com/datasets/gracehephzibahm/gender-by-name/data
+Data used to train: https://archive.ics.uci.edu/dataset/591/gender+by+name
